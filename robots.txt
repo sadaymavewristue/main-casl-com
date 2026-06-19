@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://sadaymavewristue.github.io/main-casl-com/sitemap.xml
